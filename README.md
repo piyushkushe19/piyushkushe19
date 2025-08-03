@@ -34,9 +34,8 @@ A passionate Full Stack Developer | Building Scalable & Intelligent Web Applicat
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=piyushkushe19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  ![](https://nirzak-streak-stats.vercel.app/?user=piyushkushe19&theme=dark&hide_border=false<br/>
 )<br/>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkushe19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+
 
 
 ### ✍️ Random Dev Quote
