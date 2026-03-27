@@ -3,11 +3,17 @@
  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
  
 🔭   Currently enhancing expertise in AI-powered applications, real-time data visualization, and scalable web architectures.
+
 🤔   Exploring full-stack development, machine learning models, and API-driven solutions to solve real-world problems.
+
 💼   Full Stack Developer with experience in React.js, Node.js, Flask, MongoDB, and SQL Server.
+
 🌱   Developed a **ParScore (SaaS) — a full-stack subscription platform** with Stripe integration, real-time systems, and scalable backend architecture 
+
 🏆   Creator of EmoTrack – an AI-based hiring platform with 91% emotion detection accuracy and 70% faster resume screening.
+
 ✍️   Passionate about modern web design trends, client-focused solutions, and continuous learning.
+
 ☕   Firm believer that clean code and a good cup of coffee can solve almost any technical challenge.
 
 🔗 **Portfolio**  
