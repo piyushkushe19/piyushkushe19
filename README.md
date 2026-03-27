@@ -1,11 +1,6 @@
 ## 💫 Hi 👋, I'm Piyush Kushe
 🚀 **Full Stack Developer | Building Scalable, Intelligent & User-Centric Web Applications**
  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
-## 💫 Hi 👋, I'm Piyush Kushe  
-
-🚀 **Full Stack Developer | Building Scalable, Intelligent & User-Centric Web Applications**
-
----
 
 🔭 **Currently**  
 Enhancing expertise in **AI-powered systems, real-time data visualization, and scalable SaaS architectures**  
