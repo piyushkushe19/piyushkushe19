@@ -1,30 +1,13 @@
 ## 💫 Hi 👋, I'm Piyush Kushe
 🚀 **Full Stack Developer | Building Scalable, Intelligent & User-Centric Web Applications**
  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
-
-🔭 **Currently**  
-Enhancing expertise in **AI-powered systems, real-time data visualization, and scalable SaaS architectures**  
-
-🤖 **Exploring**  
-Full-stack development, **machine learning models**, and **API-driven solutions** to solve real-world problems  
-
-💼 **Experience**  
-Full Stack Developer skilled in **React.js, Node.js, Flask, MongoDB, PostgreSQL, and SQL Server**  
-
-🌱 **Interests**  
-Cloud technologies, **performance optimization**, UI/UX design, and automation workflows  
-
-🏆 **Key Achievement**  
-Built **EmoTrack** — an AI-powered hiring platform with **91% emotion detection accuracy** and **70% faster resume screening**  
-
-⚡ **Notable Work**  
-Developed **ParScore (SaaS)** — a full-stack subscription platform with **Stripe integration, real-time systems, and scalable backend architecture**  
-
-✍️ **Approach**  
-Focused on **clean code, scalable design, and building production-ready applications**  
-
-☕ **Fun Fact**  
-Clean code + a good cup of coffee = solving complex problems efficiently  
+🔭Currently Enhancing expertise in **AI-powered systems, real-time data visualization, and scalable SaaS architectures**  
+🤖Exploring Full-stack development, **machine learning models**, and **API-driven solutions** to solve real-world problems  
+💼Full Stack Developer skilled in **React.js, Node.js, Flask, MongoDB, PostgreSQL, and SQL Server**  
+🏆 Key Achievement : Built EmoTrack — an AI-powered hiring platform with **91% emotion detection accuracy** and **70% faster resume screening**  
+⚡Notable Work : Developed **ParScore (SaaS)** — a full-stack subscription platform with **Stripe integration, real-time systems, and scalable backend architecture**  
+✍️ **Approach : Focused on **clean code, scalable design, and building production-ready applications**  
+☕ **Fun Fact**  Clean code + a good cup of coffee = solving complex problems efficiently  
 
 🔗 **Portfolio**  
 https://piyushkushe-portfolio-fifx.vercel.app/  
